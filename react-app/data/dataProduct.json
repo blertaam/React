@@ -1,0 +1,13 @@
+[
+    {
+        "id": "1",
+        "name": "Blerta",
+        "category": "phone",
+        "price": "1600",
+        "stock": "yes",
+        "image": "fotoiphon.jpg",
+        "description": "Desc i telit qetu"
+
+
+    }
+]

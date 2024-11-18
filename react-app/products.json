@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone 16 Pro Max",
+        "category": "$1600",
+        "stock": "yes",
+        "image": "foto",
+        "description": "Lorem"
+    },
+    {
+        "id": 2,
+        "name": "Samsung note 24",
+        "category": "$1100",
+        "stock": "yes",
+        "image": "foto",
+        "description": "Lorem"
+
+    },
+    {
+        "id": 3,
+        "name": "Iphone 13 Pro Max",
+        "category": "$659",
+        "stock": "yes",
+        "image": "foto",
+        "description": "Lorem"
+    }
+    
+]

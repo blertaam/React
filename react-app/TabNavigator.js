@@ -16,7 +16,7 @@ const createBottomTabNavigator = () =>{
             }
         }}
         >
-            <Tab.Screen
+            <Tab.Screen></Tab.Screen>
             name = 'Home'
             component = {{
                 tabBarLabel: 'Home',
